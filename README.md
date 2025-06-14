@@ -1,5 +1,9 @@
-# 👋 Hi, I'm studywithme!
+<!-- 방문자 수 카운터 -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=studywithme&label=Profile+views&color=0e75b6&style=flat" alt="studywithme" />
+</p>
 
+# 👋 Hi, I'm studywithme!
 대학교 4학년 컴퓨터공학과 백엔드 개발자 지망생입니다.  
 AI 기반 추천 시스템, 오픈소스 기반 웹/서버 개발 등 다양한 프로젝트를 경험하고 있습니다.
 
