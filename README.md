@@ -7,8 +7,6 @@
 대학교 4학년 컴퓨터공학과 백엔드 개발자 지망생입니다.  
 AI 기반 추천 시스템, 오픈소스 기반 웹/서버 개발 등 다양한 프로젝트를 경험하고 있습니다.
 
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages  
@@ -49,8 +47,6 @@ AI 기반 추천 시스템, 오픈소스 기반 웹/서버 개발 등 다양한 
 ![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=flat&logo=websockets&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-
----
 
 📫 **Contact**  
 📧 tea_meen1@daum.net
