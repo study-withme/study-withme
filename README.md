@@ -77,7 +77,7 @@ AI 추천 시스템 연계와 데이터 수집·처리 중심의 서버 아키�
 ## Contact
 
 - GitHub: https://github.com/study-withme
-- Email: contact@example.com
+- Email: kju0606@naver.com
 
 ---
 
