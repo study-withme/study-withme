@@ -1,8 +1,9 @@
-# 김정욱 | Backend Developer
+# 김정욱 | Junior Backend Developer
 
 Spring Boot 기반 백엔드 개발자입니다.  
-AI 추천 시스템 연계와 데이터 수집, 처리 중심의 서버 아키텍처를 설계 구현했으며  
-확장성과 유지보수를 고려한 구조 설계를 지향합니다.
+AI 추천 시스템 연계와 데이터 수집, 처리 중심의 서버 아키텍처를 설계 구현했습니다.
+NEXON OPEN API 데이터를 활용하여 사용자 정보를 수집,가공,제공 했습니다.
+Playwright을 활용하여 data crawling 프로젝트를 수행하였습니다.
 
 ---
 
