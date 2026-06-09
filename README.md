@@ -42,7 +42,7 @@
 - **주요 기술**: Java, Spring Boot, Spring Web MVC, Spring Data JPA, Gradle
 - **Repo 바로가기**: [miniblog](https://github.com/study-withme/miniblog)
 
-### StudyWithMe – AI 기반 스터디 매칭 플랫폼 (졸업작품 + 논문)
+### StudyWithMe 졸업논문 – AI 기반 스터디 매칭 플랫폼 (최우수 1등 작품 선정)
 - **기간**: 2025.03 ~ 2025.12
 - **역할**: 백엔드 아키텍처 설계/구현, AI 추천 서버 연동
 - **핵심 구현**: Spring Boot API 서버와 FastAPI 추천 서버를 분리한 서비스 구조 설계, 서버 간 REST 통신 계약 정의
