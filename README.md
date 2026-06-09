@@ -42,7 +42,7 @@
 - **주요 기술**: Java, Spring Boot, Spring Web MVC, Spring Data JPA, Gradle
 - **Repo 바로가기**: [miniblog](https://github.com/study-withme/miniblog)
 
-### StudyWithMe – AI 기반 스터디 매칭 플랫폼 (졸업작품)
+### StudyWithMe – AI 기반 스터디 매칭 플랫폼 (졸업작품 + 논문)
 - **기간**: 2025.03 ~ 2025.12
 - **역할**: 백엔드 아키텍처 설계/구현, AI 추천 서버 연동
 - **핵심 구현**: Spring Boot API 서버와 FastAPI 추천 서버를 분리한 서비스 구조 설계, 서버 간 REST 통신 계약 정의
@@ -58,6 +58,14 @@
 - **주요 기술**: Spring Boot, Redis, MariaDB, Next.js, Docker
 - **성과 요약**: 캐시 히트 구간 10~50ms 응답, 병렬 처리 기반 조회 성능 개선, 외부 API 호출량 절감
 - **Repo 바로가기**: [Nexon-OPEN-API---Sudden-Attack-Statistics-Search-Community-Platform](https://github.com/study-withme/Nexon-OPEN-API---Sudden-Attack-Statistics-Search-Community-Platform)
+
+### 커피 주문/재고 – 프로그래머스 데브코스 백엔드 1차 팀 프로젝트 (우수팀 선정)
+- **프로젝트 유형**: 프로그래머스 데브코스 백엔드 엔지니어링 1차 프로젝트 (5인 팀)
+- **담당 역할**: 내 주문내역 조회 API (고객, CUS-09) + 결제 완료된 모든 주문내역 조회 (업주, OWN-04)
+- **핵심 구현**: 이메일,우편번호(주소) 검증 후, 결제 완료된 나의 주문내역을 반환 | 결제 완료된 고객들의 모든 주문내역을 이메일,우편번호로 리스트 전체 반환
+- **기술 포인트**: 
+- **주요 기술**: Spring Boot, Spring Data JPA, Spring Security
+- **Repo 바로가기**: [NBE9-11-2-Team05](https://github.com/study-withme/NBE9-11-2-Team05)
 
 ### 합격시그널 – 프로그래머스 데브코스 백엔드 2차 팀 프로젝트
 - **프로젝트 유형**: 프로그래머스 데브코스 백엔드 엔지니어링 2차 프로젝트 (6인 팀)
