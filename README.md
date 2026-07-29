@@ -56,15 +56,6 @@
 - **주요 기술**: Spring Boot, FastAPI, MySQL, Docker
 - **Repo 바로가기**: [ai-website-studywithme](https://github.com/study-withme/ai-website-studywithme)
 
-### NEXON OPEN API - 게임 커뮤니티 플랫폼
-- **기간**: 2025 (개인 프로젝트)
-- **역할**: 백엔드 중심 풀스택 개발
-- **핵심 구현**: 외부 Open API 연동 데이터 가공 파이프라인 구축, Redis/Caffeine 기반 멀티 레벨 캐싱, CompletableFuture 병렬 호출
-- **기술 포인트**: Rate Limiting + 재시도 + 키 로테이션으로 외부 API 안정성 확보, 캐시 TTL 차등 설계로 응답 성능 최적화, 외부 API연동 및 데이터가공 및 시각화
-- **주요 기술**: Spring Boot, Redis, MariaDB, Next.js, Docker, OPEN API
-- **성과 요약**: 캐시 히트 구간 10~50ms 응답, 병렬 처리 기반 조회 성능 개선, 외부 API 호출량 절감
-- **Repo 바로가기**: [NEXON OPEN API를 이용한 게임전적조회 API](https://github.com/study-withme/Nexon-OPEN-API---Sudden-Attack-Statistics-Search-Community-Platform)
-
 ### 커피 주문/재고 – 프로그래머스 데브코스 백엔드 1차 팀 프로젝트 (우수팀 선정)
 - **프로젝트 유형**: 프로그래머스 데브코스 백엔드 엔지니어링 1차 프로젝트 (5인 팀)
 - **프로젝트 개요**: 특정 주문조건 + 요구사항 명세서가 존재하는 환경에서 간편 주문,재고 확인 API 개발
@@ -91,6 +82,15 @@
 - **기술 포인트**: 데이터 크롤링, 스케줄링 수집 파이프라인 구성, 중복/실패 재시도 처리, Docker Compose 기반 멀티 서비스 오케스트레이션
 - **주요 기술**: FastAPI, Playwright, Node.js/Express, Docker Compose
 - **Repo 바로가기**: [data-crawling-website](https://github.com/study-withme/data-crawling-website)
+
+### NEXON OPEN API - 게임 커뮤니티 플랫폼
+- **기간**: 2025 (개인 프로젝트)
+- **역할**: 백엔드 중심 풀스택 개발
+- **핵심 구현**: 외부 Open API 연동 데이터 가공 파이프라인 구축, Redis/Caffeine 기반 멀티 레벨 캐싱, CompletableFuture 병렬 호출
+- **기술 포인트**: Rate Limiting + 재시도 + 키 로테이션으로 외부 API 안정성 확보, 캐시 TTL 차등 설계로 응답 성능 최적화, 외부 API연동 및 데이터가공 및 시각화
+- **주요 기술**: Spring Boot, Redis, MariaDB, Next.js, Docker, OPEN API
+- **성과 요약**: 캐시 히트 구간 10~50ms 응답, 병렬 처리 기반 조회 성능 개선, 외부 API 호출량 절감
+- **Repo 바로가기**: [NEXON OPEN API를 이용한 게임전적조회 API](https://github.com/study-withme/Nexon-OPEN-API---Sudden-Attack-Statistics-Search-Community-Platform)
 
 ### Mini Blog – Spring Boot/Java MVC 기본기 프로젝트
 - **백엔드 초점**: Spring Boot + Java MVC 기반 REST API 기본기 체득
