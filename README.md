@@ -39,12 +39,14 @@
 
 - **전체 레포지토리**: [github.com/study-withme](https://github.com/study-withme)
 
-### Mini Blog – Spring Boot/Java MVC 기본기 프로젝트
-- **백엔드 초점**: Spring Boot + Java MVC 기반 REST API 기본기 체득
-- **핵심 구현**: Controller-Service-Repository 계층 분리, JPA 엔티티 매핑 및 CRUD, DTO 기반 요청/응답 모델링
-- **기술 포인트**: HTTP Method/Status 기반 API 설계, 공통 예외 처리 구조화, Gradle 기반 모듈 빌드
-- **주요 기술**: Java, Spring Boot, Spring Web MVC, Spring Data JPA, Gradle
-- **Repo 바로가기**: [miniblog](https://github.com/study-withme/miniblog)
+### 크라우드 펀딩 플랫폼 Seed Link - 프로그래머스 데브코스 백엔드 최종 프로젝트
+- **프로젝트 유형**: 프로그래머스 데브코스 백엔드 엔지니어링 최종 프로젝트 (5인 팀)
+- **프로젝트 개요**: 청년취창업자들을 위한 아이디어 투자 플랫폼
+- **담당 역할**: Toss Payments 결제API 연동, Mock 가상계좌 결제 시스템 구축, PR 총괄
+- **핵심 구현**: 
+- **기술 포인트**: Webhook, Websocket, Redis
+- **주요 기술**: Java, Spring Boot, Redis, Webhook, Websocket
+- **Repo 바로가기**: [NBE9-11-final-Team04](https://github.com/prgrms-be-devcourse/NBE9-11-final-Team04)
 
 ### StudyWithMe 졸업논문 – AI 기반 스터디 매칭 플랫폼 (최우수 1등 작품 선정)
 - **기간**: 2025.03 ~ 2025.12
@@ -89,6 +91,13 @@
 - **기술 포인트**: 데이터 크롤링, 스케줄링 수집 파이프라인 구성, 중복/실패 재시도 처리, Docker Compose 기반 멀티 서비스 오케스트레이션
 - **주요 기술**: FastAPI, Playwright, Node.js/Express, Docker Compose
 - **Repo 바로가기**: [data-crawling-website](https://github.com/study-withme/data-crawling-website)
+
+### Mini Blog – Spring Boot/Java MVC 기본기 프로젝트
+- **백엔드 초점**: Spring Boot + Java MVC 기반 REST API 기본기 체득
+- **핵심 구현**: Controller-Service-Repository 계층 분리, JPA 엔티티 매핑 및 CRUD, DTO 기반 요청/응답 모델링
+- **기술 포인트**: HTTP Method/Status 기반 API 설계, 공통 예외 처리 구조화, Gradle 기반 모듈 빌드
+- **주요 기술**: Java, Spring Boot, Spring Web MVC, Spring Data JPA, Gradle
+- **Repo 바로가기**: [miniblog](https://github.com/study-withme/miniblog)
 
 ---
 ## 기술 경험 타임라인
