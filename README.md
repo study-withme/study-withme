@@ -43,7 +43,7 @@
 - **프로젝트 유형**: 프로그래머스 데브코스 백엔드 엔지니어링 최종 프로젝트 (5인 팀)
 - **프로젝트 개요**: 청년취창업자들을 위한 아이디어 투자 플랫폼
 - **담당 역할**: Toss Payments 결제API 연동, Mock 가상계좌 결제 시스템 구축, PR 총괄
-- **핵심 구현**: 
+- **핵심 구현**: 보증급 선납 결제 제약조건 설정, 결제 검증 및 상태전이와 가상계좌 발급, 출금제어, 동시성 제어, 선정산 출금, 보증급 환급 및 몰수 제약조건 설정, 이행중단시 상태 및 처리, 결제 내역 조회, 펀딩 취소(스폰서)
 - **기술 포인트**: Webhook, Websocket, Redis
 - **주요 기술**: Java, Spring Boot, Redis, Webhook, Websocket
 - **Repo 바로가기**: [NBE9-11-final-Team04](https://github.com/prgrms-be-devcourse/NBE9-11-final-Team04)
